@@ -1,0 +1,12 @@
+{
+  "name": "AChat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~3.18.4",
+    "socket.io": "~1.2.1"
+  }
+}
